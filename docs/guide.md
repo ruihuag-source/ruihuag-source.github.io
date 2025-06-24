@@ -111,6 +111,12 @@
 
 - [CSS 灵感](https://csscoco.com/inspiration/#/)
 
+### 炫技
+
+- [.li](https://david.li/)
+- [Fluid Particles](https://david.li/fluid/)
+- [AW](https://wodniack.dev/)
+
 ### Platform
 
 - [npmjs](www.npmjs.com)
