@@ -8,6 +8,10 @@
 
 ### 综合
 
+- [B 站](t.bilibili.com/?tab=video)
+- [知乎](www.zhihu.com/hot)
+- [音乐 ZZ123](zz123.com/)
+- [GD 音乐台](https://music.gdstudio.xyz/)
 - [摸鱼岛](fish.codebug.icu)
 - [摸鱼派](fishpi.cn/)
 - [LKs 网站推荐合集](lkssite.vip/)
@@ -37,13 +41,6 @@
 - [System Info](tool/system-info)
 <!-- - [Todo List](tool/todo-list) -->
 - [DDL](tool/ddl)
-
-### 综合
-
-- [B 站](t.bilibili.com/?tab=video)
-- [知乎](www.zhihu.com/hot)
-- [音乐 ZZ123](zz123.com/)
-- [GD 音乐台](https://music.gdstudio.xyz/)
 
 ### Study CSS
 
