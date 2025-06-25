@@ -69,15 +69,20 @@
 
 ### ACG
 
-- [原神](www.miyoushe.com/ys)
-- [原神地图](act.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&lang=zh-cn&utm_source=bbs&utm_medium=mys&utm_campaign=pcicon&_markerFps=24#/map/2?shown_types=2,3,154,517,658,659,626,356,17,44,45,269,70,64,77,69,597,600,667,668,680,596,410)
-- [玉衡杯数据库](homdgcat.wiki)
-- [Honey Impact](gensh.honeyhunterworld.com/?lang=CHS)
-- [崩坏: 星穹铁道](www.miyoushe.com/sr)
-- [绝区零](www.miyoushe.com/zzz/)
 - [萌娘百科](mzh.moegirl.org.cn)
 - [次元小镇](dimtown.com/)
 - [TouchGal](www.touchgal.io/)
+
+### Game
+
+- [原神](www.miyoushe.com/ys)
+- [原神地图](act.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&lang=zh-cn&utm_source=bbs&utm_medium=mys&utm_campaign=pcicon&_markerFps=24#/map/2?shown_types=2,3,154,517,658,659,626,356,17,44,45,269,70,64,77,69,597,600,667,668,680,596,410)
+- [图鉴·原神](https://baike.mihoyo.com/ys/obc/channel/map/189/25?bbs_presentation_style=no_header&visit_device=pc)
+- [崩坏: 星穹铁道](www.miyoushe.com/sr)
+- [绝区零](www.miyoushe.com/zzz/)
+- [绳网情报站·绝区零](https://baike.mihoyo.com/zzz/wiki/channel/map/2/43)
+- [玉衡杯数据库](homdgcat.wiki)
+- [Honey Impact](gensh.honeyhunterworld.com/?lang=CHS)
 
 ## Dev
 
