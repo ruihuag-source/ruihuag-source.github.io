@@ -166,6 +166,8 @@
 - [pexels](www.pexels.com/zh-cn/)
 - [在线 PS](https://www.gaoding.com/editor/ps#/)
 - [全年龄的动漫图片和壁纸](anime-pictures.net)
+- [自动生成所有尺寸的PWA图标·RealFaviconGenerator](https://realfavicongenerator.net/)
+- [免费图标生成工具·Favicon.io](https://favicon.io/favicon-converter/)
 
 ### 工具 / 资源
 
@@ -202,6 +204,7 @@
 
 - [iconify](icon-sets.iconify.design)
 - [Remix Icon](remixicon.com)
+- [Google Fonts](https://fonts.google.com/icons)
 
 ### 图表
 
