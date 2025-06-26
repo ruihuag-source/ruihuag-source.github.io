@@ -10,17 +10,32 @@
 
 - [B 站](t.bilibili.com/?tab=video)
 - [知乎](www.zhihu.com/hot)
-- [音乐 ZZ123](zz123.com/)
-- [GD 音乐台](https://music.gdstudio.xyz/)
 - [摸鱼岛](fish.codebug.icu)
 - [摸鱼派](fishpi.cn/)
 - [LKs 网站推荐合集](lkssite.vip/)
 - [冰山图表](icebergcharts.com/)
 
+### 音乐
+
+- [音乐 ZZ123](zz123.com/)
+- [GD 音乐台](https://music.gdstudio.xyz/)
+
+### 背景音
+
+- [室内](https://pluvior.com/index.html)
+- [海滩](https://virtocean.com/#)
+- [世界之声](https://aporee.org/maps/)
+- [森林之音](www.tree.fm)
+
 ### 数据
 
 - [七麦数据](www.qimai.cn/rank)
 - [极客湾移动芯片排行](www.socpk.com/)
+- [世界统计 - 实时世界统计](https://www.worldometers.info/)
+
+### 娱乐
+
+- [可视化编码](https://makecode.microbit.org/#editor)
 
 ## Own
 
@@ -114,6 +129,15 @@
 
 - [CSS 灵感](https://csscoco.com/inspiration/#/)
 
+### 资源
+
+- [视频&图片多种格式素材](https://sample-videos.com/index.php#sample-mp4-video)
+- [字节跳动静态资源公共库](https://cdn.bytedance.com/)
+
+### 旧版浏览器
+
+- [chrome 对应版本](https://vikyd.github.io/download-chromium-history-version/#/)
+
 ### 炫技
 
 - [.li](https://david.li/)
@@ -167,17 +191,28 @@
 - [gmail](mail.google.com)
 - [临时邮箱](https://temp-mail.org/zh/)
 
+### 虚拟号码
+
+- [超级云短信-在线短信接收-Receive SMS (bfkdim.com)](http://www.bfkdim.com/)
+- [Human-machine safety verification (receive-sms-free.cc)](https://receive-sms-free.cc/)
+- [免费在线收短信 | 临时手机号码 (freesms-online.com)](https://freesms-online.com/zh)
+
 ### 配图相关
 
 - [pexels](www.pexels.com/zh-cn/)
 - [在线 PS](https://www.gaoding.com/editor/ps#/)
 - [全年龄的动漫图片和壁纸](anime-pictures.net)
-- [自动生成所有尺寸的PWA图标·RealFaviconGenerator](https://realfavicongenerator.net/)
+- [自动生成所有尺寸的 PWA 图标·RealFaviconGenerator](https://realfavicongenerator.net/)
 - [免费图标生成工具·Favicon.io](https://favicon.io/favicon-converter/)
+- [抠图 removebg](https://www.remove.bg)
+
+### 视频相关
+
+- [Shotcup·开源跨平台剪辑视频工具](https://www.shotcut.org/)
+- [33 台词·通过台词找影片](http://33.agilestudio.cn/)
 
 ### 工具 / 资源
 
-- [抠图 removebg](https://www.remove.bg)
 - [Alpha Coders 壁纸](alphacoders.com)
 - [致美化(主题,壁纸)](zhutix.com)
 - [wallhaven](wallhaven.cc/)
@@ -187,12 +222,21 @@
 - [图片压缩 zippic](www.zippic.cn)
 - [月幕 galgame](https://www.ymgal.games/)
 
-### 背景音
+### 书
 
-- [室内](https://pluvior.com/index.html)
-- [海滩](https://virtocean.com/#)
-- [世界之声](https://aporee.org/maps/)
-- [森林之音](www.tree.fm)
+- [找书/文档·鸠摩搜索](https://www.ituring.com.cn/)
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+- [书格·数字图书馆](https://new.shuge.org/)
+
+### 课程
+
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [libpku·贵校课程资料民间整理](https://lib-pku.github.io/)
+- [北京大学信息学院计算机系 本科&研究生课程大作业选集](https://github.com/tongtzeho/PKUCourse)
+- [中山大学](https://github.com/sysuexam/SYSU-Exam)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+- [BiliBili公开课目录](https://github.com/elder-frog/OpenCourseCatalog)
 
 ### 镜像
 
@@ -211,6 +255,7 @@
 - [iconify](icon-sets.iconify.design)
 - [Remix Icon](remixicon.com)
 - [Google Fonts](https://fonts.google.com/icons)
+- [iconfont](https://www.iconfont.cn)
 
 ### 图表
 
