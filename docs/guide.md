@@ -149,6 +149,10 @@
 - [npmjs](www.npmjs.com)
 - [deepseek](platform.deepseek.com/usage)
 
+### 镜像
+
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+
 ## Tool & Resource
 
 ### 翻译
@@ -238,10 +242,6 @@
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [BiliBili公开课目录](https://github.com/elder-frog/OpenCourseCatalog)
 
-### 镜像
-
-- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
-
 ## UI 组件 & 模板
 
 ### UI 组件库
@@ -280,6 +280,8 @@
 - [Sketchfab·3D Models](sketchfab.com/)
 - [Fab·Free 3D Models](www.fab.com/category/3d-model?q=tree&is_free=1)
 - [Konva·H5 Canvas](konvajs-doc.bluehymn.com)
+
+## UI 模板
 
 ### UI 模板库
 
