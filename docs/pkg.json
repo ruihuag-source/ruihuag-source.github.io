@@ -168,5 +168,12 @@
     "home": "https://sandpack.codesandbox.io/docs/getting-started",
     "desc": "web 沙盒",
     "tags": "web sandbox sandpack npm-package"
+  },
+  {
+    "label": "zod",
+    "install": "zod",
+    "home": "zod.dev",
+    "desc": "使用静态类型推理的 TypeScript 优先模式验证",
+    "tags": "typescript static-types schema-validation type-inference runtime-validation"
   }
 ]

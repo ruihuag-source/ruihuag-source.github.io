@@ -161,6 +161,9 @@
 - [Google 翻译](translate.google.com)
 - [微软翻译](www.bing.com/translator)
 - [DeepL](www.deepl.com/zh/translator)
+- [腾讯翻译君](fanyi.qq.com/)
+- [有道翻译](fanyi.youdao.com/#/TextTranslate)
+- [搜狗翻译](fanyi.sogou.com/text?keyword=apple&transfrom=auto&transto=zh-CHS&model=general)
 
 ### AI
 
