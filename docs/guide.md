@@ -169,6 +169,7 @@
 
 - [bing](www.bing.com)
 - [Google](www.google.com)
+- [Baidu](www.baidu.com)
 
 ### AI
 
