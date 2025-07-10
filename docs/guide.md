@@ -167,7 +167,7 @@
 
 ### 搜索引擎
 
-- [bing](www.bing.com)
+- [Bing](www.bing.com)
 - [Google](www.google.com)
 - [Baidu](www.baidu.com)
 
