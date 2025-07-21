@@ -150,6 +150,7 @@
 
 - [npmjs](www.npmjs.com)
 - [deepseek](platform.deepseek.com/usage)
+- [github 状态](https://www.githubstatus.com/)
 
 ### 镜像
 
@@ -253,7 +254,7 @@
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [BiliBili公开课目录](https://github.com/elder-frog/OpenCourseCatalog)
 
-## UI 组件 & 模板
+## UI Component
 
 ### UI 组件库
 
@@ -292,9 +293,9 @@
 - [Fab·Free 3D Models](www.fab.com/category/3d-model?q=tree&is_free=1)
 - [Konva·H5 Canvas](konvajs-doc.bluehymn.com)
 
-## UI 模板
+## UI Template
 
-### UI 模板库
+### UI Template
 
 - [NavNav (组件)](thuvien.org/navnav)
 - [HTMLLrev](htmlrev.com/)
