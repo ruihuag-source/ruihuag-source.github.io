@@ -32,6 +32,7 @@
 - [七麦数据](www.qimai.cn/rank)
 - [极客湾移动芯片排行](www.socpk.com/)
 - [世界统计 - 实时世界统计](https://www.worldometers.info/)
+- [中国宜居城市](https://yiju.city/china)
 
 ### 娱乐
 
@@ -51,6 +52,7 @@
 - [随机密码](tool/randomPwd)
 - [文本比对](tool/text-compare)
 - [简繁体转换](tool/converter/Chinese)
+- [计算器](tool/calculator)
 - [Color](tool/color)
 - [Box Shadow](tool/box-shadow)
 - [System Info](tool/system-info)
