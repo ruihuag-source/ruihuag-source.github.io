@@ -47,7 +47,7 @@
 - [0static](https://0static.github.io/)
 - [Sandbox](https://ruihuag-sandbox.github.io/)
 
-### Own Tool
+### Tool
 
 - [随机密码](tool/randomPwd)
 - [文本比对](tool/text-compare)
@@ -58,6 +58,7 @@
 - [System Info](tool/system-info)
 <!-- - [Todo List](tool/todo-list) -->
 - [DDL](tool/ddl)
+- [Platform Api](tool/platform-api)
 
 ### Study CSS
 
