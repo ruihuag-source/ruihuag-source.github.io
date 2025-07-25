@@ -59,6 +59,7 @@
 <!-- - [Todo List](tool/todo-list) -->
 - [DDL](tool/ddl)
 - [Platform Api](tool/platform-api)
+- [AI Chat](tool/ai-chat)
 
 ### Study CSS
 
