@@ -38,55 +38,6 @@
 
 - [可视化编码](https://makecode.microbit.org/#editor)
 
-## Own
-
-### Own
-
-- [Note](https://ruihuag-note.github.io/)
-- [Demo](https://ruihuag-demo.github.io/)
-- [0static](https://0static.github.io/)
-- [Sandbox](https://ruihuag-sandbox.github.io/)
-
-### Tool
-
-- [随机密码](tool/randomPwd)
-- [文本比对](tool/text-compare)
-- [简繁体转换](tool/converter/Chinese)
-- [计算器](tool/calculator)
-- [Color](tool/color)
-- [Box Shadow](tool/box-shadow)
-- [System Info](tool/system-info)
-<!-- - [Todo List](tool/todo-list) -->
-- [DDL](tool/ddl)
-- [Platform Api](tool/platform-api)
-- [AI Chat](tool/ai-chat)
-
-### Study CSS
-
-- [双引号样式](study/css-q-quotes)
-- [flex](study/css-flex)
-- [grid](study/css-grid)
-- [drag](study/study-drag)
-
-### Study 示例
-
-- [小众 HTML 标签](study/minority-html)
-- [滚动绽放](study/scroll-bloom)
-- [整屏滚动](study/scroll-snap)
-- [Svg](study/svg)
-- [Svg Demo](study/svg-demo)
-- [Flow Demo](study/flow-demo-grid)
-- [字体描边](study/font-stroke)
-- [中间省略号 & svg 文本加粗](study/demo-text)
-
-### Other
-
-- [Canvas Base Draw](study/canvas)
-- [Canvas Base Style](study/canvas-base-style)
-- [Select](study/select)
-- [Upload File Preview](study/upload-file-preview)
-- [Test](study/test)
-
 ### ACG
 
 - [萌娘百科](mzh.moegirl.org.cn)
@@ -140,7 +91,7 @@
 
 ### 旧版浏览器
 
-- [chrome 对应版本](https://vikyd.github.io/download-chromium-history-version/#/)
+- [Chrome 对应版本](https://vikyd.github.io/download-chromium-history-version/#/)
 
 ### 炫技
 
@@ -263,6 +214,7 @@
 - [Antd](ant-design.antgroup.com/components/overview-cn)
 - [Element Plus](element-plus.org/zh-CN/component/overview.html)
 - [UI Shadcn](ui.shadcn.com/docs/components/button)
+- [metisui](metisui.com/components/button-cn)
 
 ### Icon
 
