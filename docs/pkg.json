@@ -175,5 +175,11 @@
     "home": "zod.dev",
     "desc": "使用静态类型推理的 TypeScript 优先模式验证",
     "tags": "typescript static-types schema-validation type-inference runtime-validation"
+  },
+  {
+    "label": "inquirer",
+    "install": "inquirer",
+    "desc": "共同的交互式命令行用户界面的集合。",
+    "home": "https://github.com/SBoudrias/Inquirer.js/blob/main/packages/inquirer/README.md"
   }
 ]

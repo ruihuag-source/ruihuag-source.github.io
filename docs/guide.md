@@ -137,9 +137,6 @@
 - [ChatGPT](chatgpt.com)
 - [秘塔](metaso.cn)
 - [Poe](poe.com)
-- [魔塔社区·模型库](www.modelscope.cn/models)
-- [Hugging Face](huggingface.co/)
-- [Comfy](https://www.comfy.org/zh-cn/)
 
 ### 编程工具(集)
 
