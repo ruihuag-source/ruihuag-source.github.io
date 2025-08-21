@@ -14,6 +14,7 @@
 - [摸鱼派](fishpi.cn/)
 - [LKs 网站推荐合集](lkssite.vip/)
 - [冰山图表](icebergcharts.com/)
+- [星云导航](https://www.xygalaxy.com/)
 
 ### 音乐
 
