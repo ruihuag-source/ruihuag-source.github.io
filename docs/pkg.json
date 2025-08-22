@@ -177,6 +177,12 @@
     "tags": "typescript static-types schema-validation type-inference runtime-validation"
   },
   {
+    "label": "pinyin-match",
+    "install": "pinyin-match",
+    "desc": "拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版",
+    "home": "https://github.com/xmflswood/pinyin-match"
+  },
+  {
     "label": "inquirer",
     "install": "inquirer",
     "desc": "共同的交互式命令行用户界面的集合。",

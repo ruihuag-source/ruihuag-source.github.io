@@ -149,7 +149,6 @@
 - [UU 在线工具](uutool.cn/type/new/)
 - [30TOOL](www.30aitool.com/)
 - [json.cn](www.json.cn/)
-- [开发者武器库](devtool.tech/)
 
 ### 邮箱
 
