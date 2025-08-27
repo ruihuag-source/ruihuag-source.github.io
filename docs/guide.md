@@ -18,7 +18,6 @@
 
 ### 音乐
 
-- [音乐 ZZ123](zz123.com/)
 - [GD 音乐台](https://music.gdstudio.xyz/)
 
 ### 背景音
