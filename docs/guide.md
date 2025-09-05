@@ -15,6 +15,7 @@
 - [LKs 网站推荐合集](lkssite.vip/)
 - [冰山图表](icebergcharts.com/)
 - [星云导航](https://www.xygalaxy.com/)
+- [花猫导航](https://huamaodh.com/)
 
 ### 音乐
 
@@ -33,6 +34,7 @@
 - [极客湾移动芯片排行](www.socpk.com/)
 - [世界统计 - 实时世界统计](https://www.worldometers.info/)
 - [中国宜居城市](https://yiju.city/china)
+- [AI 排行榜 (LMArena)](https://lmarena.ai/leaderboard)
 
 ### 娱乐
 
@@ -46,14 +48,16 @@
 
 ### Game
 
-- [原神](www.miyoushe.com/ys)
-- [原神地图](act.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&lang=zh-cn&utm_source=bbs&utm_medium=mys&utm_campaign=pcicon&_markerFps=24#/map/2?shown_types=2,3,154,517,658,659,626,356,17,44,45,269,70,64,77,69,597,600,667,668,680,596,410)
+- [原神](https://www.miyoushe.com/ys)
+- [原神地图](https://act.mihoyo.com/ys/app/interactive-map/index.html)
 - [图鉴·原神](https://baike.mihoyo.com/ys/obc/channel/map/189/25?bbs_presentation_style=no_header&visit_device=pc)
-- [崩坏: 星穹铁道](www.miyoushe.com/sr)
-- [绝区零](www.miyoushe.com/zzz/)
+- [崩坏: 星穹铁道](https://www.miyoushe.com/sr)
+- [绝区零](https://www.miyoushe.com/zzz/)
 - [绳网情报站·绝区零](https://baike.mihoyo.com/zzz/wiki/channel/map/2/43)
-- [玉衡杯数据库](homdgcat.wiki)
-- [Honey Impact](gensh.honeyhunterworld.com/?lang=CHS)
+- [玉衡杯数据库](https://homdgcat.wiki)
+- [Honey Impact](https://gensh.honeyhunterworld.com/?lang=CHS)
+- [復古遊戲 - 在線玩復古遊戲和模擬器遊戲](https://classicjoy.games/zh-TW)
+- [SZ Games - Free Online Browser Games | Play 1000+ Games](https://sz-games.online/)
 
 ## Dev
 
@@ -65,6 +69,7 @@
 - [CSS-Tricks](https://css-tricks.com/)
 - [Packages](packages)
 - [Dev](https://dev.to/)
+- [电脑信息 (browseris)](https://browseris.com/)
 
 ### 技术社区
 
@@ -88,6 +93,7 @@
 
 - [视频&图片多种格式素材](https://sample-videos.com/index.php#sample-mp4-video)
 - [字节跳动静态资源公共库](https://cdn.bytedance.com/)
+- [免版税 HUD 动画信息图形图形](https://elements.envato.com/stock-video/motion-graphics/hud+animation/pg-2)
 
 ### 旧版浏览器
 
@@ -98,6 +104,7 @@
 - [.li](https://david.li/)
 - [Fluid Particles](https://david.li/fluid/)
 - [AW](https://wodniack.dev/)
+- [功能丰富的 Canvas 效果库](https://jl-cvs.pages.dev/cutoutImg)
 
 ### Platform
 
@@ -171,10 +178,11 @@
 - [自动生成所有尺寸的 PWA 图标·RealFaviconGenerator](https://realfavicongenerator.net/)
 - [免费图标生成工具·Favicon.io](https://favicon.io/favicon-converter/)
 - [抠图 removebg](https://www.remove.bg)
+- [圆形裁剪·图像叠加·图像铅笔素描·图像锐化·图像黑白图像](https://sharpen.imageonline.co/cn/)
 
 ### 视频相关
 
-- [Shotcup·开源跨平台剪辑视频工具](https://www.shotcut.org/)
+- [Shotcut·开源跨平台剪辑视频工具](https://www.shotcut.org/)
 - [33 台词·通过台词找影片](http://33.agilestudio.cn/)
 
 ### 工具 / 资源
@@ -202,7 +210,7 @@
 - [北京大学信息学院计算机系 本科&研究生课程大作业选集](https://github.com/tongtzeho/PKUCourse)
 - [中山大学](https://github.com/sysuexam/SYSU-Exam)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
-- [BiliBili公开课目录](https://github.com/elder-frog/OpenCourseCatalog)
+- [BiliBili 公开课目录](https://github.com/elder-frog/OpenCourseCatalog)
 
 ## UI Component
 
