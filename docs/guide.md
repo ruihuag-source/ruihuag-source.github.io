@@ -198,6 +198,7 @@
 
 ### 书
 
+- [识典古籍](https://www.shidianguji.com/)
 - [找书/文档·鸠摩搜索](https://www.ituring.com.cn/)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [书格·数字图书馆](https://new.shuge.org/)
