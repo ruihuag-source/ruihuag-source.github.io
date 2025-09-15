@@ -12,10 +12,13 @@
 - [知乎](www.zhihu.com/hot)
 - [摸鱼岛](fish.codebug.icu)
 - [摸鱼派](fishpi.cn/)
-- [LKs 网站推荐合集](lkssite.vip/)
 - [冰山图表](icebergcharts.com/)
+
+### 导航 / 合集
+
 - [星云导航](https://www.xygalaxy.com/)
 - [花猫导航](https://huamaodh.com/)
+- [LKs 网站推荐合集](lkssite.vip/)
 
 ### 音乐
 
