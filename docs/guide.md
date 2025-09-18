@@ -141,12 +141,13 @@
 
 - [deepseek](chat.deepseek.com)
 - [元宝](yuanbao.tencent.com)
-- [文心一言](zhida.zhihu.com)
 - [豆包](www.doubao.com/chat/)
+- [文心一言](zhida.zhihu.com)
 - [Kimi](www.kimi.com/)
 - [ChatGPT](chatgpt.com)
 - [秘塔](metaso.cn)
 - [Poe](poe.com)
+- [gemini](https://gemini.google.com/)
 
 ### 编程工具(集)
 
