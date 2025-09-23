@@ -2,7 +2,6 @@
 
 ### 新闻
 
-- [今日热榜](hot.imsyy.top/#/)
 - [R 今日热榜](tophub.today/)
 - [百度热搜](top.baidu.com/board?tab=realtime)
 
@@ -148,6 +147,8 @@
 - [秘塔](metaso.cn)
 - [Poe](poe.com)
 - [gemini](https://gemini.google.com/)
+- [ModelScope](https://modelscope.cn/)
+- [Hugging Face](https://huggingface.co/)
 
 ### 编程工具(集)
 
