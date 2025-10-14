@@ -189,6 +189,7 @@
 
 - [Shotcut·开源跨平台剪辑视频工具](https://www.shotcut.org/)
 - [33 台词·通过台词找影片](http://33.agilestudio.cn/)
+- [无水印下载 (小红书, 抖音, bilibili, 微信公众号 ,快手)](http://download.linglan01.cn/)
 
 ### 工具 / 资源
 
@@ -200,6 +201,15 @@
 - [极简浏览器插件](chrome.zzzmh.cn/index)
 - [图片压缩 zippic](www.zippic.cn)
 - [月幕 galgame](https://www.ymgal.games/)
+- [100font (免费字体)](https://www.100font.com/)
+
+### 资源
+
+- [全球高清实况摄像头](https://www.skylinewebcams.com/)
+- [全球电视免费看](https://tv.garden/)
+- [全球广播免费听](https://radiocast.co/)
+- [万物免费修理手册](https://zh.ifixit.com/)
+- [免费复古游戏畅玩](https://classicgamezone.com/zh-cn)
 
 ### 书
 
@@ -207,6 +217,7 @@
 - [找书/文档·鸠摩搜索](https://www.ituring.com.cn/)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [书格·数字图书馆](https://new.shuge.org/)
+- [Z-Library(免费书)](https://zh.z-library.sk/)
 
 ### 课程
 
