@@ -12,12 +12,14 @@
 - [摸鱼岛](fish.codebug.icu)
 - [摸鱼派](fishpi.cn/)
 - [冰山图表](icebergcharts.com/)
+- [SCP基金会](http://scp-zh-tr.wikidot.com/)
 
 ### 导航 / 合集
 
 - [星云导航](https://www.xygalaxy.com/)
 - [花猫导航](https://huamaodh.com/)
 - [LKs 网站推荐合集](lkssite.vip/)
+- [Yandex(俄罗斯搜索引擎)](https://yandex.com/)
 
 ### 音乐
 
@@ -87,9 +89,11 @@
 - [Chrome Extensions](developer.chrome.com/docs/extensions/reference/api?hl=zh-cn)
 - [MDN Web Docs](developer.mozilla.org/zh-CN/)
 
-### Docs
+### CSS
 
 - [CSS 灵感](https://csscoco.com/inspiration/#/)
+- [颗粒渐变背景](https://grainy-gradients.vercel.app/)
+- [Free Mesh Gradient Collection](https://products.ls.graphics/mesh-gradients/)
 
 ### 资源
 
@@ -117,6 +121,7 @@
 ### 镜像
 
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [unpkg](https://unpkg.com/)
 
 ## Tool & Resource
 
@@ -218,6 +223,7 @@
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [书格·数字图书馆](https://new.shuge.org/)
 - [Z-Library(免费书)](https://zh.z-library.sk/)
+- [古诗文网](https://www.gushiwen.cn/)
 
 ### 课程
 
