@@ -23,6 +23,7 @@
 ### 音乐
 
 - [GD 音乐台](https://music.gdstudio.xyz/)
+- [海绵音乐·免费ai生成音乐](https://www.haimian.com/lab)
 
 ### 背景音
 
@@ -42,6 +43,7 @@
 ### 娱乐
 
 - [可视化编码](https://makecode.microbit.org/#editor)
+- [虾仁沙雕动画排行榜](https://xiaren.ink/)
 
 ### ACG
 
@@ -61,6 +63,7 @@
 - [Honey Impact](https://gensh.honeyhunterworld.com/?lang=CHS)
 - [復古遊戲 - 在線玩復古遊戲和模擬器遊戲](https://classicjoy.games/zh-TW)
 - [SZ Games - Free Online Browser Games | Play 1000+ Games](https://sz-games.online/)
+- [itch·数字游戏平台](https://itch.io/)
 
 ## Dev
 
@@ -215,6 +218,7 @@
 - [全球广播免费听](https://radiocast.co/)
 - [万物免费修理手册](https://zh.ifixit.com/)
 - [免费复古游戏畅玩](https://classicgamezone.com/zh-cn)
+- [免抠图网](https://www.miankoutupian.com/tools)
 
 ### 书
 
@@ -267,6 +271,7 @@
 - [Volt](https://volt.primevue.org/button/)
 - [Vuestic](https://ui.vuestic.dev/ui-elements/button)
 - [TDesign (vue2)](https://tdesign.tencent.com/vue/overview)
+- [Pixelium Design·像素风](https://shika-works.github.io/pixelium-design/zh/common/button)
 
 ### UI 组件库·React·mobile
 
