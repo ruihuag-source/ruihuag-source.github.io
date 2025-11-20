@@ -65,6 +65,11 @@
 - [SZ Games - Free Online Browser Games | Play 1000+ Games](https://sz-games.online/)
 - [itch·数字游戏平台](https://itch.io/)
 
+### Blog
+
+- [Arthals' ink](https://arthals.ink/blog)
+- [Yutong's Site](https://www.lyt0112.com/blog)
+
 ## Dev
 
 ### Web
@@ -256,6 +261,7 @@
 ### UI 组件库·Vue
 
 - [Element Plus](https://element-plus.org/zh-CN/component/overview.html)
+- [Inspira UI](https://inspira-ui.com/docs/zh-cn/components/backgrounds/cosmic-portal)
 - [TDesign (vue3)](https://tdesign.tencent.com/vue-next/overview)
 - [Ant Design Vue](https://antdv.com/components/overview)
 - [vue Bits](https://vue-bits.dev/text-animations/true-focus)
