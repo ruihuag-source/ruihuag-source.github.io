@@ -4,6 +4,7 @@
 
 - [R 今日热榜](tophub.today/)
 - [百度热搜](top.baidu.com/board?tab=realtime)
+- [每日新闻联播(文字版)](http://mrxwlb.com/category/mrxwlb-text/)
 
 ### 综合
 
