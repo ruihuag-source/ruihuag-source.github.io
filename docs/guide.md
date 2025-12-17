@@ -155,6 +155,7 @@
 - [deepseek](chat.deepseek.com)
 - [元宝](yuanbao.tencent.com)
 - [豆包](www.doubao.com/chat/)
+- [XiaomiMIMO Studio](https://aistudio.xiaomimimo.com)
 - [文心一言](zhida.zhihu.com)
 - [Kimi](www.kimi.com/)
 - [ChatGPT](chatgpt.com)
@@ -163,6 +164,7 @@
 - [gemini](https://gemini.google.com/)
 - [ModelScope](https://modelscope.cn/)
 - [Hugging Face](https://huggingface.co/)
+- [小秋 AI](https://chat.xqai.net/)
 
 ### 编程工具(集)
 
