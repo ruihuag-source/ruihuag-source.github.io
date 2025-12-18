@@ -147,7 +147,9 @@
 
 - [Bing](www.bing.com)
 - [Google](www.google.com)
+- [Google (香港)](www.google.com.hk)
 - [Baidu](www.baidu.com)
+- [Baidu (开发)](kaifa.baidu.com)
 - [Yandex(俄罗斯搜索引擎)](https://yandex.com/)
 
 ### AI
@@ -205,7 +207,7 @@
 
 - [Shotcut·开源跨平台剪辑视频工具](https://www.shotcut.org/)
 - [33 台词·通过台词找影片](http://33.agilestudio.cn/)
-- [无水印下载 (小红书, 抖音, bilibili, 微信公众号 ,快手)](http://download.linglan01.cn/)
+- [无水印下载 (小红书, 抖音, bilibili, 微信公众号 ,快手)](https://nologo.code24.top/)
 
 ### 工具 / 资源
 
