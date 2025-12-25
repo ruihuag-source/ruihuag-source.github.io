@@ -82,6 +82,7 @@
 - [Packages](packages)
 - [Dev](https://dev.to/)
 - [电脑信息 (browseris)](https://browseris.com/)
+- [Chrome 旧版浏览器 对应版本](https://vikyd.github.io/download-chromium-history-version/#/)
 
 ### 技术社区
 
@@ -96,6 +97,7 @@
 
 - [Chrome Extensions](developer.chrome.com/docs/extensions/reference/api?hl=zh-cn)
 - [MDN Web Docs](developer.mozilla.org/zh-CN/)
+- [electron forge](https://www.electronforge.io/)
 
 ### CSS
 
@@ -108,10 +110,6 @@
 - [视频&图片多种格式素材](https://sample-videos.com/index.php#sample-mp4-video)
 - [字节跳动静态资源公共库](https://cdn.bytedance.com/)
 - [免版税 HUD 动画信息图形图形](https://elements.envato.com/stock-video/motion-graphics/hud+animation/pg-2)
-
-### 旧版浏览器
-
-- [Chrome 对应版本](https://vikyd.github.io/download-chromium-history-version/#/)
 
 ### 炫技
 
@@ -238,6 +236,7 @@
 - [书格·数字图书馆](https://new.shuge.org/)
 - [Z-Library(免费书)](https://zh.z-library.sk/)
 - [古诗文网](https://www.gushiwen.cn/)
+- [广东省立中山图书馆(网盘)](https://pan.quark.cn/s/ea55690d6c9f#/list/share/664900b66864484ead3a1aa876fb1106)
 
 ### 课程
 
