@@ -93,11 +93,13 @@
 - [Stack Overflow](stackoverflow.com)
 - [github](github.com)
 
-### API
+### API Docs
 
 - [Chrome Extensions](developer.chrome.com/docs/extensions/reference/api?hl=zh-cn)
 - [MDN Web Docs](developer.mozilla.org/zh-CN/)
+- [Electron (zh)](https://www.electronjs.org/zh/docs/latest/api/app)
 - [electron forge](https://www.electronforge.io/)
+- [免费API](https://free-apis.github.io/#/browse)
 
 ### CSS
 
