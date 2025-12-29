@@ -14,6 +14,7 @@
 - [摸鱼派](fishpi.cn/)
 - [冰山图表](icebergcharts.com/)
 - [SCP基金会](http://scp-zh-tr.wikidot.com/)
+- [浏览器性能跑分](https://browserbench.org/)
 
 ### 导航 / 合集
 
