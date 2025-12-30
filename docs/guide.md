@@ -13,7 +13,7 @@
 - [摸鱼岛](fish.codebug.icu)
 - [摸鱼派](fishpi.cn/)
 - [冰山图表](icebergcharts.com/)
-- [SCP基金会](http://scp-zh-tr.wikidot.com/)
+- [SCP 基金会](http://scp-zh-tr.wikidot.com/)
 - [浏览器性能跑分](https://browserbench.org/)
 
 ### 导航 / 合集
@@ -25,7 +25,7 @@
 ### 音乐
 
 - [GD 音乐台](https://music.gdstudio.xyz/)
-- [海绵音乐·免费ai生成音乐](https://www.haimian.com/lab)
+- [海绵音乐·免费 ai 生成音乐](https://www.haimian.com/lab)
 
 ### 背景音
 
@@ -53,7 +53,7 @@
 - [次元小镇](dimtown.com/)
 - [TouchGal](www.touchgal.io/)
 
-### Game
+### Game 相关
 
 - [原神](https://www.miyoushe.com/ys)
 - [原神地图](https://act.mihoyo.com/ys/app/interactive-map/index.html)
@@ -63,9 +63,13 @@
 - [绳网情报站·绝区零](https://baike.mihoyo.com/zzz/wiki/channel/map/2/43)
 - [玉衡杯数据库](https://homdgcat.wiki)
 - [Honey Impact](https://gensh.honeyhunterworld.com/?lang=CHS)
+
+### Game
+
 - [復古遊戲 - 在線玩復古遊戲和模擬器遊戲](https://classicjoy.games/zh-TW)
 - [SZ Games - Free Online Browser Games | Play 1000+ Games](https://sz-games.online/)
 - [itch·数字游戏平台](https://itch.io/)
+- [gamer520](https://www.gamer520.com/pcplay)
 
 ### Blog
 
@@ -100,7 +104,7 @@
 - [MDN Web Docs](developer.mozilla.org/zh-CN/)
 - [Electron (zh)](https://www.electronjs.org/zh/docs/latest/api/app)
 - [electron forge](https://www.electronforge.io/)
-- [免费API](https://free-apis.github.io/#/browse)
+- [免费 API](https://free-apis.github.io/#/browse)
 
 ### CSS
 
@@ -166,8 +170,13 @@
 - [Poe](poe.com)
 - [gemini](https://gemini.google.com/)
 - [ModelScope](https://modelscope.cn/)
-- [Hugging Face](https://huggingface.co/)
 - [小秋 AI](https://chat.xqai.net/)
+
+### AI 技术相关
+
+- [Hugging Face](https://huggingface.co/)
+- [Dify](https://docs.dify.ai/zh/use-dify/getting-started/introduction)
+- [PromptPilot](https://promptpilot.volcengine.com/)
 
 ### 编程工具(集)
 
@@ -202,6 +211,7 @@
 - [自动生成所有尺寸的 PWA 图标·RealFaviconGenerator](https://realfavicongenerator.net/)
 - [免费图标生成工具·Favicon.io](https://favicon.io/favicon-converter/)
 - [抠图 removebg](https://www.remove.bg)
+- [去除水印 EzRemove](https://ezremove.ai/sora-watermark-remover/)
 - [圆形裁剪·图像叠加·图像铅笔素描·图像锐化·图像黑白图像](https://sharpen.imageonline.co/cn/)
 
 ### 视频相关
@@ -230,6 +240,7 @@
 - [万物免费修理手册](https://zh.ifixit.com/)
 - [免费复古游戏畅玩](https://classicgamezone.com/zh-cn)
 - [免抠图网](https://www.miankoutupian.com/tools)
+- [姿势参考库 PoseMy.Art](https://posemy.art/zh-hans/%E5%A7%BF%E5%8A%BF%E5%8F%82%E8%80%83/)
 
 ### 书
 
