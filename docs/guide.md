@@ -73,6 +73,7 @@
 
 ### Blog
 
+- [Web三维可视化 / 开源分享](https://z2586300277.github.io/)
 - [Arthals' ink](https://arthals.ink/blog)
 - [Yutong's Site](https://www.lyt0112.com/blog)
 
@@ -108,6 +109,7 @@
 
 ### CSS
 
+- [调色板 (ColorPalette)](https://colorpalette.pro/)
 - [CSS 灵感](https://csscoco.com/inspiration/#/)
 - [颗粒渐变背景](https://grainy-gradients.vercel.app/)
 - [Free Mesh Gradient Collection](https://products.ls.graphics/mesh-gradients/)
@@ -130,6 +132,23 @@
 - [npmjs](www.npmjs.com)
 - [deepseek](platform.deepseek.com/usage)
 - [github 状态](https://www.githubstatus.com/)
+- [Netlify](https://app.netlify.com/teams/guanruihua/projects)
+
+### Game
+
+- [My feed - itch.io](https://itch.io/my-feed)
+- [星火编辑器](https://doc.sce.xd.com/Manual/Welcome/GettingStartedWithLearning)
+- [2D 游戏地图编辑 - Tiled | Flexible level editor](https://www.mapeditor.org/)
+
+### Game / Unity
+
+- [Unity中国官网 - 实时内容开发平台 | 3D、2D、VR & AR可视化](https://unity.cn/)
+- [制作一个简单完整的2D RPG战斗系统-Unity6零基础入门教程(基础篇)- unity|u3d|虚幻|ue4/5|java|python|人工智能|视频教程|在线课程](https://www.sikiedu.com/my/course/2141)
+
+### Game / Cocos
+
+- [瓦片图资源（TiledMap） | Cocos Creator](https://docs.cocos.com/creator/3.8/manual/zh/asset/tiledmap.html)
+- [100个Cocos实例](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTY2MjIzMg==&action=getalbum&album_id=3207702867494305797#wechat_redirect)
 
 ### 镜像
 
@@ -137,6 +156,10 @@
 - [unpkg](https://unpkg.com/)
 
 ## Tool & Resource
+
+### 综合
+
+- [音/视频处理 / PDF处理 等 (123apps)](https://123apps.com/)
 
 ### 翻译
 
@@ -171,6 +194,7 @@
 - [gemini](https://gemini.google.com/)
 - [ModelScope](https://modelscope.cn/)
 - [小秋 AI](https://chat.xqai.net/)
+- [Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案](https://holopix.cn/?channel=98184503&prdId=2210103&platformCode=17&os=3&campaignId=0&adId=0&cid=0&clickTime=__TS__&callbackUrl=pbaes.wWp7VqQ_2wtu3wgk-2IIW6eRJn70zxbc6tU17fcFM5cG2XICzhYtvERMiq7oMl-7_bBqWN4nKLK0SN_4eNjm3OD9qqdPjQK5kN1XxLrjmO2oP2IsyYDTgLDRm8gxTFsPy8b4cdw-4Vchaj7i2ba4mCYaxpdU8w8vDdFaehKoWASI4CvfI-feHoLs-92CEzf1nkP7WiidNw7Affqz7OYb8A&androidid=__ANDROIDID__&imei=__IMEI__&oaid=__OAIDMD5__&account_id=0&ip=119.143.41.149&ua=__UA__&model=__MODEL__&idfa=__IDFAMD5__)
 
 ### AI 技术相关
 
@@ -231,6 +255,7 @@
 - [图片压缩 zippic](www.zippic.cn)
 - [月幕 galgame](https://www.ymgal.games/)
 - [100font (免费字体)](https://www.100font.com/)
+- [开发者免费 --- Free for Developers](https://free-for.dev/)
 
 ### 资源
 
