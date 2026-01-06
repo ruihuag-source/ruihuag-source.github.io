@@ -109,6 +109,7 @@
 
 ### CSS
 
+- [Tailwind CSS](https://tailwindcss.com/docs/padding)
 - [调色板 (ColorPalette)](https://colorpalette.pro/)
 - [CSS 灵感](https://csscoco.com/inspiration/#/)
 - [颗粒渐变背景](https://grainy-gradients.vercel.app/)
