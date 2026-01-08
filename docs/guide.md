@@ -15,6 +15,7 @@
 - [冰山图表](icebergcharts.com/)
 - [SCP 基金会](http://scp-zh-tr.wikidot.com/)
 - [浏览器性能跑分](https://browserbench.org/)
+- [reddit (povertyfinance)](https://www.reddit.com/r/povertyfinance/)
 
 ### 导航 / 合集
 
@@ -156,7 +157,7 @@
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [unpkg](https://unpkg.com/)
 
-## Tool & Resource
+## Tool
 
 ### 综合
 
@@ -258,6 +259,8 @@
 - [100font (免费字体)](https://www.100font.com/)
 - [开发者免费 --- Free for Developers](https://free-for.dev/)
 
+## Resource
+
 ### 资源
 
 - [全球高清实况摄像头](https://www.skylinewebcams.com/)
@@ -290,6 +293,10 @@
 
 ## UI Component
 
+### 动画
+
+- [React Bits](https://www.reactbits.dev/get-started/index)
+
 ### UI 组件库
 
 - [UI Shadcn](https://ui.shadcn.com/docs/components/button)
@@ -300,7 +307,6 @@
 
 - [Antd](https://ant-design.antgroup.com/components/overview-cn)
 - [TDesign](https://tdesign.tencent.com/react/overview)
-- [React Bits](https://www.reactbits.dev/get-started/index)
 
 ### UI 组件库·Vue
 
