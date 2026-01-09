@@ -197,11 +197,16 @@
 - [ModelScope](https://modelscope.cn/)
 - [小秋 AI](https://chat.xqai.net/)
 - [Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案](https://holopix.cn/?channel=98184503&prdId=2210103&platformCode=17&os=3&campaignId=0&adId=0&cid=0&clickTime=__TS__&callbackUrl=pbaes.wWp7VqQ_2wtu3wgk-2IIW6eRJn70zxbc6tU17fcFM5cG2XICzhYtvERMiq7oMl-7_bBqWN4nKLK0SN_4eNjm3OD9qqdPjQK5kN1XxLrjmO2oP2IsyYDTgLDRm8gxTFsPy8b4cdw-4Vchaj7i2ba4mCYaxpdU8w8vDdFaehKoWASI4CvfI-feHoLs-92CEzf1nkP7WiidNw7Affqz7OYb8A&androidid=__ANDROIDID__&imei=__IMEI__&oaid=__OAIDMD5__&account_id=0&ip=119.143.41.149&ua=__UA__&model=__MODEL__&idfa=__IDFAMD5__)
+- [Browser Use](https://cloud.browser-use.com/)
+
+### AI 工作流
+
+- [n8n](https://n8n.io/)
+- [Dify](https://docs.dify.ai/zh/use-dify/getting-started/introduction)
 
 ### AI 技术相关
 
 - [Hugging Face](https://huggingface.co/)
-- [Dify](https://docs.dify.ai/zh/use-dify/getting-started/introduction)
 - [PromptPilot](https://promptpilot.volcengine.com/)
 
 ### 编程工具(集)
@@ -297,18 +302,18 @@
 
 - [React Bits](https://www.reactbits.dev/get-started/index)
 
-### UI 组件库
+### 组件
 
 - [UI Shadcn](https://ui.shadcn.com/docs/components/button)
 - [metisui](https://metisui.com/components/button-cn)
 - [ARK·Vue·React](https://ark-ui.com/docs/components/checkbox)
 
-### UI 组件库·React
+### React
 
 - [Antd](https://ant-design.antgroup.com/components/overview-cn)
 - [TDesign](https://tdesign.tencent.com/react/overview)
 
-### UI 组件库·Vue
+### Vue
 
 - [Element Plus](https://element-plus.org/zh-CN/component/overview.html)
 - [Inspira UI](https://inspira-ui.com/docs/zh-cn/components/backgrounds/cosmic-portal)
@@ -329,19 +334,19 @@
 - [TDesign (vue2)](https://tdesign.tencent.com/vue/overview)
 - [Pixelium Design·像素风](https://shika-works.github.io/pixelium-design/zh/common/button)
 
-### UI 组件库·React·mobile
+### React·mobile
 
 - [TDesign](https://tdesign.tencent.com/mobile-react/overview)
 
-### UI 组件库·Vue·mobile
+### Vue·mobile
 
 - [TDesign](https://tdesign.tencent.com/mobile-vue/overview)
 
-### UI 组件库·React·小程序
+### React·小程序
 
 - [Taro](https://docs.taro.zone/docs/components-desc)
 
-### UI 组件库·Vue·小程序
+### Vue·小程序
 
 - [TDesign](https://tdesign.tencent.com/miniprogram/overview)
 - [TDesign (qq)](https://tdesign.tencent.com/qq-miniprogram/overview)
