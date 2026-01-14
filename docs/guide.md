@@ -35,13 +35,15 @@
 - [世界之声](https://aporee.org/maps/)
 - [森林之音](www.tree.fm)
 
-### 数据
+### 排行榜
 
 - [七麦数据](www.qimai.cn/rank)
 - [极客湾移动芯片排行](www.socpk.com/)
 - [世界统计 - 实时世界统计](https://www.worldometers.info/)
 - [中国宜居城市](https://yiju.city/china)
 - [AI 排行榜 (LMArena)](https://lmarena.ai/leaderboard)
+- [技术排行榜 ( stackoverflow )](https://survey.stackoverflow.co/2024/technology?utm_source=chatgpt.com)
+- [AI 使用排行榜·样本数少](https://gs.statcounter.com/ai-chatbot-market-share)
 
 ### 娱乐
 
@@ -99,6 +101,7 @@
 - [开源中国( OSChina )](www.oschina.net)
 - [Stack Overflow](stackoverflow.com)
 - [github](github.com)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
 
 ### API Docs
 
