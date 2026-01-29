@@ -123,7 +123,6 @@
 ### 资源
 
 - [视频&图片多种格式素材](https://sample-videos.com/index.php#sample-mp4-video)
-- [字节跳动静态资源公共库](https://cdn.bytedance.com/)
 - [免版税 HUD 动画信息图形图形](https://elements.envato.com/stock-video/motion-graphics/hud+animation/pg-2)
 
 ### 炫技
