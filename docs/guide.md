@@ -110,6 +110,7 @@
 - [Mermaid 图表](https://mermaid.nodejs.cn/intro/)
 - [Electron (zh)](https://www.electronjs.org/zh/docs/latest/api/app)
 - [electron forge](https://www.electronforge.io/)
+- [Tauri](https://tauri.app/zh-cn/start/)
 - [免费 API](https://free-apis.github.io/#/browse)
 
 ### CSS
