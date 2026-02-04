@@ -121,6 +121,13 @@
 - [颗粒渐变背景](https://grainy-gradients.vercel.app/)
 - [Free Mesh Gradient Collection](https://products.ls.graphics/mesh-gradients/)
 
+### JS 方法包
+
+- [lodash](https://www.lodashjs.com/)
+- [moderndash](https://moderndash.io/docs/chunk)
+- [radashi](https://radashi.cndocs.org/reference/array/alphabetical/)
+- [es-toolkit](https://es-toolkit.dev/zh_hans/reference/array/at.html)
+
 ### 资源
 
 - [视频&图片多种格式素材](https://sample-videos.com/index.php#sample-mp4-video)
@@ -417,3 +424,7 @@
 - [Login Page](https://matsu-theme.vercel.app/login)
 - [Dashboard Page](https://matsu-theme.vercel.app/dashboard)
 - [Component](https://matsu-theme.vercel.app/test)
+
+## 其他
+
+- [LMMS·免费、开源的数字音频工作站](https://lmms.io/)
