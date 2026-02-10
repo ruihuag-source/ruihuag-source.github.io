@@ -195,6 +195,7 @@
 
 ### AI
 
+- [即梦AI (seedance 2.0)](https://jimeng.jianying.com)
 - [deepseek](chat.deepseek.com)
 - [元宝](yuanbao.tencent.com)
 - [豆包](www.doubao.com/chat/)
