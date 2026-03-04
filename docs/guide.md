@@ -201,8 +201,9 @@
 - [豆包](www.doubao.com/chat/)
 - [XiaomiMIMO Studio](https://aistudio.xiaomimimo.com)
 - [文心一言](zhida.zhihu.com)
-- [Kimi](www.kimi.com/)
+- [Kimi (月之暗面)](www.kimi.com/)
 - [ChatGPT](chatgpt.com)
+- [GLM](https://chatglm.cn/)
 - [秘塔](metaso.cn)
 - [Poe](poe.com)
 - [gemini](https://gemini.google.com/)
@@ -210,6 +211,12 @@
 - [小秋 AI](https://chat.xqai.net/)
 - [Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案](https://holopix.cn/?channel=98184503&prdId=2210103&platformCode=17&os=3&campaignId=0&adId=0&cid=0&clickTime=__TS__&callbackUrl=pbaes.wWp7VqQ_2wtu3wgk-2IIW6eRJn70zxbc6tU17fcFM5cG2XICzhYtvERMiq7oMl-7_bBqWN4nKLK0SN_4eNjm3OD9qqdPjQK5kN1XxLrjmO2oP2IsyYDTgLDRm8gxTFsPy8b4cdw-4Vchaj7i2ba4mCYaxpdU8w8vDdFaehKoWASI4CvfI-feHoLs-92CEzf1nkP7WiidNw7Affqz7OYb8A&androidid=__ANDROIDID__&imei=__IMEI__&oaid=__OAIDMD5__&account_id=0&ip=119.143.41.149&ua=__UA__&model=__MODEL__&idfa=__IDFAMD5__)
 - [Browser Use](https://cloud.browser-use.com/)
+
+### Skill
+
+- [skillsmp](https://skillsmp.com/zh)
+- [skills](https://skills.lc/)
+- [ui-ux-pro-max-skill](https://ui-ux-pro-max-skill.nextlevelbuilder.io/#styles)
 
 ### AI 工作流
 
@@ -369,6 +376,7 @@
 - [Remix Icon](remixicon.com)
 - [Google Fonts](https://fonts.google.com/icons)
 - [iconfont](https://www.iconfont.cn)
+- [lucide](https://lucide.dev/icons/)
 
 ### 图表
 
@@ -425,6 +433,10 @@
 - [Login Page](https://matsu-theme.vercel.app/login)
 - [Dashboard Page](https://matsu-theme.vercel.app/dashboard)
 - [Component](https://matsu-theme.vercel.app/test)
+
+### Dev Game
+
+- [Cocos 资源](https://store.cocos.com/app/)
 
 ## 其他
 
