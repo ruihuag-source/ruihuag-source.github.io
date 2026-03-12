@@ -16,6 +16,15 @@
 - [SCP 基金会](http://scp-zh-tr.wikidot.com/)
 - [浏览器性能跑分](https://browserbench.org/)
 - [reddit (povertyfinance)](https://www.reddit.com/r/povertyfinance/)
+- [Github Star History](https://www.star-history.com/)
+
+### 热门
+
+- [openClaw·github](https://github.com/openclaw/openclaw)
+
+### 教程
+
+- [学习编程(github/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 
 ### 导航 / 合集
 
@@ -305,7 +314,7 @@
 - [古诗文网](https://www.gushiwen.cn/)
 - [广东省立中山图书馆(网盘)](https://pan.quark.cn/s/ea55690d6c9f#/list/share/664900b66864484ead3a1aa876fb1106)
 
-### 课程
+### 课程 & 学习
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
@@ -314,6 +323,7 @@
 - [中山大学](https://github.com/sysuexam/SYSU-Exam)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [BiliBili 公开课目录](https://github.com/elder-frog/OpenCourseCatalog)
+- [freecodecamp](https://www.freecodecamp.org/)
 
 ## UI Component
 
@@ -385,6 +395,7 @@
 - [EChart Api](echarts.apache.org/zh/api.html#echarts)
 - [AntV G6](g6.antv.antgroup.com/examples)
 - [APEX Charts](www.apexcharts.com/javascript-chart-demos/line-charts/basic/)
+- [chart.xkcd·手绘风图表](https://timqian.com/chart.xkcd/)
 
 ### Color
 
