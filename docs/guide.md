@@ -137,6 +137,10 @@
 - [radashi](https://radashi.cndocs.org/reference/array/alphabetical/)
 - [es-toolkit](https://es-toolkit.dev/zh_hans/reference/array/at.html)
 
+### npm
+
+- [node.bcrypt.js · 哈希密码](https://github.com/kelektiv/node.bcrypt.js)
+
 ### 资源
 
 - [视频&图片多种格式素材](https://sample-videos.com/index.php#sample-mp4-video)
@@ -225,7 +229,9 @@
 
 - [skillsmp](https://skillsmp.com/zh)
 - [skills](https://skills.lc/)
+- [Skillstore](https://skillstore.io/zh-hans)
 - [ui-ux-pro-max-skill](https://ui-ux-pro-max-skill.nextlevelbuilder.io/#styles)
+- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)
 
 ### AI 工作流
 
@@ -281,6 +287,8 @@
 
 ### 工具 / 资源
 
+- [将图像转换为PDF - 迅捷，在线，免费 - PDF24](https://tools.pdf24.org/zh/images-to-pdf#s=1769044901363)
+- [去水印下载鸭](https://nologo.code24.top/)
 - [Alpha Coders 壁纸](alphacoders.com)
 - [致美化(主题,壁纸)](zhutix.com)
 - [wallhaven](wallhaven.cc/)
