@@ -5,6 +5,7 @@
 - [R 今日热榜](tophub.today/)
 - [百度热搜](top.baidu.com/board?tab=realtime)
 - [每日新闻联播(文字版)](http://mrxwlb.com/category/mrxwlb-text/)
+- [HelloGithub 月刊](https://hellogithub.com/periodical)
 
 ### 综合
 
@@ -17,6 +18,16 @@
 - [浏览器性能跑分](https://browserbench.org/)
 - [reddit (povertyfinance)](https://www.reddit.com/r/povertyfinance/)
 - [Github Star History](https://www.star-history.com/)
+- [World Monitor — 实时全球情报仪表板](https://www.worldmonitor.app/?lat=4.5045&lon=16.6557&zoom=1.50&view=global&timeRange=7d&layers=conflicts%2Cbases%2Chotspots%2Cnuclear%2Csanctions%2Cweather%2Ceconomic%2Cwaterways%2Coutages%2Cmilitary%2Cnatural%2CiranAttacks)
+- [Free Live TV & Online Radio Worldwide | Famelack](https://famelack.com/tv/cn)
+
+### 旅游
+
+- [Drive & Listen - Virtual Travel - Virtual Tour - Drive & Listen](https://drivenlisten.com/)
+
+### Video
+
+- [EverythingMoe - Index of best Anime/Manga sites](https://everythingmoe.com/)
 
 ### 热门
 
@@ -73,7 +84,6 @@
 - [崩坏: 星穹铁道](https://www.miyoushe.com/sr)
 - [绝区零](https://www.miyoushe.com/zzz/)
 - [绳网情报站·绝区零](https://baike.mihoyo.com/zzz/wiki/channel/map/2/43)
-- [玉衡杯数据库](https://homdgcat.wiki)
 - [Honey Impact](https://gensh.honeyhunterworld.com/?lang=CHS)
 
 ### Game
@@ -139,7 +149,9 @@
 
 ### npm
 
-- [node.bcrypt.js · 哈希密码](https://github.com/kelektiv/node.bcrypt.js)
+- [node.bcrypt.js / 哈希密码](https://github.com/kelektiv/node.bcrypt.js)
+- [pinyin-pro / 拼音转换工具](https://pinyin-pro.cn/)
+- [ink / 终端样式log / react](https://github.com/vadimdemedes/ink#readme)
 
 ### 资源
 
@@ -187,6 +199,15 @@
 
 - [音/视频处理 / PDF处理 等 (123apps)](https://123apps.com/)
 
+### Dev
+
+- [Bcrypt - IT Tools](https://it-tools.tech/bcrypt)
+- [Basic FreeMoCap Workflow | FreeMoCap Main Documentation, 动捕](https://docs.freemocap.org/documentation/getting-started-index.html)
+
+### 引擎
+
+- [LayaAir全平台3D引擎 | LAYA引擎官网](https://layaair.layabox.com/#/doc)
+
 ### 翻译
 
 - [有道翻译](fanyi.youdao.com/#/TextTranslate)
@@ -222,8 +243,12 @@
 - [gemini](https://gemini.google.com/)
 - [ModelScope](https://modelscope.cn/)
 - [小秋 AI](https://chat.xqai.net/)
-- [Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案](https://holopix.cn/?channel=98184503&prdId=2210103&platformCode=17&os=3&campaignId=0&adId=0&cid=0&clickTime=__TS__&callbackUrl=pbaes.wWp7VqQ_2wtu3wgk-2IIW6eRJn70zxbc6tU17fcFM5cG2XICzhYtvERMiq7oMl-7_bBqWN4nKLK0SN_4eNjm3OD9qqdPjQK5kN1XxLrjmO2oP2IsyYDTgLDRm8gxTFsPy8b4cdw-4Vchaj7i2ba4mCYaxpdU8w8vDdFaehKoWASI4CvfI-feHoLs-92CEzf1nkP7WiidNw7Affqz7OYb8A&androidid=__ANDROIDID__&imei=__IMEI__&oaid=__OAIDMD5__&account_id=0&ip=119.143.41.149&ua=__UA__&model=__MODEL__&idfa=__IDFAMD5__)
 - [Browser Use](https://cloud.browser-use.com/)
+
+### 游戏资源 / 像素画
+
+- [人物动作生成器 · Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&body=Body_Color_light&head=Human_Male_light&expression=Neutral_light)
+- [Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案](https://holopix.cn/?channel=98184503&prdId=2210103&platformCode=17&os=3&campaignId=0&adId=0&cid=0&clickTime=__TS__&callbackUrl=pbaes.wWp7VqQ_2wtu3wgk-2IIW6eRJn70zxbc6tU17fcFM5cG2XICzhYtvERMiq7oMl-7_bBqWN4nKLK0SN_4eNjm3OD9qqdPjQK5kN1XxLrjmO2oP2IsyYDTgLDRm8gxTFsPy8b4cdw-4Vchaj7i2ba4mCYaxpdU8w8vDdFaehKoWASI4CvfI-feHoLs-92CEzf1nkP7WiidNw7Affqz7OYb8A&androidid=__ANDROIDID__&imei=__IMEI__&oaid=__OAIDMD5__&account_id=0&ip=119.143.41.149&ua=__UA__&model=__MODEL__&idfa=__IDFAMD5__)
 
 ### Skill
 
@@ -299,6 +324,7 @@
 - [月幕 galgame](https://www.ymgal.games/)
 - [100font (免费字体)](https://www.100font.com/)
 - [开发者免费 --- Free for Developers](https://free-for.dev/)
+- [图片格式转换 / ico / synapse](https://www.synapse.fan/zh-CN/wormhole)
 
 ## Resource
 
