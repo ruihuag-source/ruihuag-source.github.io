@@ -27,6 +27,23 @@
 
 ### Video
 
+- [好好看_最新Netflix新剧_韩国电影免费在线观看](https://103.194.185.51:51123/)
+- [好好看_最新Netflix新剧_1_韩国电影免费在线观看](https://www.hhkan1.com/)
+- [好好看_最新Netflix新剧_2_韩国电影免费在线观看](https://www.hhkan2.com/)
+- [好好看_最新Netflix新剧_3_韩国电影免费在线观看](https://www.hhkan3.com/)
+- [好好看_最新Netflix新剧_4_韩国电影免费在线观看](https://www.hhkan4.com/)
+- [爱迪影视-](https://www.aidi6.com/vod/?page=1)
+- [好好看_最新Netflix新剧_韩国电影免费在线观看](https://103.194.185.51:51123/)
+- [好好看](https://103.194.185.51:51123/)
+- [茶杯狐](https://www.cupfox.ai/)
+- [爱迪影视](https://www.aidi6.com/vod/?page=1)
+- [大师兄影视](https://ypmy.net/index.html)
+- [一起影视](https://www.yiqiys.com/)
+- [新视讯](https://m.sunnafh.com/type/1)
+- [爱看机器人](https://v.ikanbot.com/)
+- [毒蛇电影](https://www.dushe02.com/)
+- [在线之家](https://m.xbdjv.com/)
+- [看片狂人](https://hljsc.com/)
 - [EverythingMoe - Index of best Anime/Manga sites](https://everythingmoe.com/)
 
 ### 热门
@@ -244,6 +261,11 @@
 - [ModelScope](https://modelscope.cn/)
 - [小秋 AI](https://chat.xqai.net/)
 - [Browser Use](https://cloud.browser-use.com/)
+
+### AI工具
+
+- [AI图像生成器 - 免费在线AI绘画工具](https://aiart.gcc.ac.cn/)
+- [FrameRonin - 视频转序列帧](https://systemchester.github.io/FrameRonin/)
 
 ### 游戏资源 / 像素画
 
