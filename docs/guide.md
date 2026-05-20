@@ -27,13 +27,6 @@
 
 ### Video
 
-- [好好看_最新Netflix新剧](https://103.194.185.51:51123/)
-- [好好看_最新Netflix新剧_1](https://www.hhkan1.com/)
-- [好好看_最新Netflix新剧_2](https://www.hhkan2.com/)
-- [好好看_最新Netflix新剧_3](https://www.hhkan3.com/)
-- [好好看_最新Netflix新剧_4](https://www.hhkan4.com/)
-- [爱迪影视-](https://www.aidi6.com/vod/?page=1)
-- [好好看](https://103.194.185.51:51123/)
 - [茶杯狐](https://www.cupfox.ai/)
 - [爱迪影视](https://www.aidi6.com/vod/?page=1)
 - [大师兄影视](https://ypmy.net/index.html)
@@ -44,6 +37,12 @@
 - [在线之家](https://m.xbdjv.com/)
 - [看片狂人](https://hljsc.com/)
 - [EverythingMoe - Index of best Anime/Manga sites](https://everythingmoe.com/)
+- [好好看](https://103.194.185.51:51123/)
+- [好好看_最新Netflix新剧](https://103.194.185.51:51123/)
+- [好好看_最新Netflix新剧_1](https://www.hhkan1.com/)
+- [好好看_最新Netflix新剧_2](https://www.hhkan2.com/)
+- [好好看_最新Netflix新剧_3](https://www.hhkan3.com/)
+- [好好看_最新Netflix新剧_4](https://www.hhkan4.com/)
 
 ### 热门
 
