@@ -344,7 +344,6 @@
 - [月幕 galgame](https://www.ymgal.games/)
 - [100font (免费字体)](https://www.100font.com/)
 - [开发者免费 --- Free for Developers](https://free-for.dev/)
-- [图片格式转换 / ico / synapse](https://www.synapse.fan/zh-CN/wormhole)
 
 ## Resource
 
