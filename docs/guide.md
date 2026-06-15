@@ -96,6 +96,7 @@
 - [原神](https://www.miyoushe.com/ys)
 - [原神地图](https://act.mihoyo.com/ys/app/interactive-map/index.html)
 - [图鉴·原神](https://baike.mihoyo.com/ys/obc/channel/map/189/25?bbs_presentation_style=no_header&visit_device=pc)
+- [日月全事](https://genshinlore.cn/)
 - [崩坏: 星穹铁道](https://www.miyoushe.com/sr)
 - [绝区零](https://www.miyoushe.com/zzz/)
 - [绳网情报站·绝区零](https://baike.mihoyo.com/zzz/wiki/channel/map/2/43)
