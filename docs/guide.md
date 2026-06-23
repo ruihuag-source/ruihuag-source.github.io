@@ -21,6 +21,10 @@
 - [World Monitor — 实时全球情报仪表板](https://www.worldmonitor.app/?lat=4.5045&lon=16.6557&zoom=1.50&view=global&timeRange=7d&layers=conflicts%2Cbases%2Chotspots%2Cnuclear%2Csanctions%2Cweather%2Ceconomic%2Cwaterways%2Coutages%2Cmilitary%2Cnatural%2CiranAttacks)
 - [Free Live TV & Online Radio Worldwide | Famelack](https://famelack.com/tv/cn)
 
+### 合集
+
+- [能用才收 - 虎哥测评工具箱 | 虎哥AI测评](hyyytps://tools.tigerfuye.com/)
+
 ### 旅游
 
 - [Drive & Listen - Virtual Travel - Virtual Tour - Drive & Listen](https://drivenlisten.com/)
@@ -38,11 +42,11 @@
 - [看片狂人](https://hljsc.com/)
 - [EverythingMoe - Index of best Anime/Manga sites](https://everythingmoe.com/)
 - [好好看](https://103.194.185.51:51123/)
-- [好好看_最新Netflix新剧](https://103.194.185.51:51123/)
-- [好好看_最新Netflix新剧_1](https://www.hhkan1.com/)
-- [好好看_最新Netflix新剧_2](https://www.hhkan2.com/)
-- [好好看_最新Netflix新剧_3](https://www.hhkan3.com/)
-- [好好看_最新Netflix新剧_4](https://www.hhkan4.com/)
+- [好好看\_最新Netflix新剧](https://103.194.185.51:51123/)
+- [好好看\_最新Netflix新剧\_1](https://www.hhkan1.com/)
+- [好好看\_最新Netflix新剧\_2](https://www.hhkan2.com/)
+- [好好看\_最新Netflix新剧\_3](https://www.hhkan3.com/)
+- [好好看\_最新Netflix新剧\_4](https://www.hhkan4.com/)
 
 ### 热门
 
@@ -79,6 +83,10 @@
 - [AI 排行榜 (LMArena)](https://lmarena.ai/leaderboard)
 - [技术排行榜 ( stackoverflow )](https://survey.stackoverflow.co/2024/technology?utm_source=chatgpt.com)
 - [AI 使用排行榜·样本数少](https://gs.statcounter.com/ai-chatbot-market-share)
+
+### Agent
+
+- [NousResearch/hermes-agent: The agent that grows with you](https://github.com/NousResearch/hermes-agent)
 
 ### 娱乐
 
@@ -147,6 +155,7 @@
 - [electron forge](https://www.electronforge.io/)
 - [Tauri](https://tauri.app/zh-cn/start/)
 - [免费 API](https://free-apis.github.io/#/browse)
+- [彩云天气 - 天气API](https://platform.caiyunapp.com/dashboard/index)
 
 ### CSS
 
@@ -168,6 +177,8 @@
 - [node.bcrypt.js / 哈希密码](https://github.com/kelektiv/node.bcrypt.js)
 - [pinyin-pro / 拼音转换工具](https://pinyin-pro.cn/)
 - [ink / 终端样式log / react](https://github.com/vadimdemedes/ink#readme)
+- [SnapDOM：下一代 DOM 捕获引擎，实现快速准确的 HTML 转换](https://snapdom.dev/#gif-export-demo)
+- [canvas引擎 LeaferJS](https://www.leaferjs.com/ui/guide/)
 
 ### 资源
 
@@ -345,6 +356,9 @@
 - [月幕 galgame](https://www.ymgal.games/)
 - [100font (免费字体)](https://www.100font.com/)
 - [开发者免费 --- Free for Developers](https://free-for.dev/)
+- [字体 / @fontsource/inter - npm](https://www.npmjs.com/package/@fontsource/inter)
+- [Inter | Fontsource](https://fontsource.org/fonts/inter)
+- [google 字体 inter](https://github.com/fontsource/font-files/blob/main/fonts/google/inter/latin-900.css)
 
 ## Resource
 
